@@ -1,4 +1,6 @@
-`TCP`(Transmission Control Protocol) and `UDP` (User Datagram Protocol) are both transport layer protocols that are used to transmit data over a network, but they operate in very different ways and serve different use cases. Here's a comparison:
+# Difference between UDP and TCP
+
+## `TCP`(Transmission Control Protocol) and `UDP` (User Datagram Protocol) are both transport layer protocols that are used to transmit data over a network, but they operate in very different ways and serve different use cases. Here's a comparison:
 
 # Connection:
 
